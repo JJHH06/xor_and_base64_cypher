@@ -23,4 +23,3 @@ def xorRandomString(binaryText):
         result += '0' if binaryText[n] == randomText[n] else '1'
     return result
 
-from nltk import trigrams, bigrams
