@@ -34,6 +34,3 @@ def xorRandomString(binaryText):
     return result
 
 
-txt = getBinaryText('Hola mundo')
-print(binaryToText(txt))
-
